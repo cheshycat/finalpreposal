@@ -1,0 +1,64 @@
+# Proposal
+
+## What will (likely) be the title of your project?
+
+META (he thought it sounded cool and it started with M...I am not opposed)
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+We want to make a retro, infinite sliding game. You'll be fighting enemies that gradually get stronger and you progress; there will also be items to help you get stronger.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed
+NOTE: This game will be built in Lua using the LOVE framework.
+This will be a retro style (in concept maybe more than design, I am not sure what style of art we will add) platformer. It will an infinite side scroller where the player can run, jump,
+and shoot at enemies. These enemies will generate more frequently and power up the further right you go. There will possibly also be traps added into the world design
+(say spikes for example). If you die you restart. There will be an attempt to scale the player and the enemies similarly, but I also think it would be fun to make the enemies much stronger
+so that the game has a almost Dark Souls or Jump King level frustration. The player is trying to get as far as they can. I feel as if there should be timer or distance function to track 
+how far they have gone.
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+N/A
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Giorgio Tatarelli; Email: tun68212@temple.edu ; TA: Tamara Katic
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+-Player character can run, jump, and shoot
+-At least 2-3 different enemies
+-Player character and enemies will have simple sprites (sprites are 2D models that represent characters)(ie. rectangles, circles: player models because that is all my mind recognizes these as
+-procedural generation (that hopefully doesn't end up trapping the player)
+-Scaling difficulty (Game becomes progressively harder)
+-Sounds for things like shooting, jumping, etc.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+-Player character can run, jump, and shoot
+-At least 3-5 different enemies
+-Player character and enemies will have sprites (ie. aliens)
+-Background and environment will be space-themed
+-procedural generation with several obstacles and level layouts
+-Scaling difficulty 
+-Game will have a few simple items for the player to pick up (items do things like restore player health, make them do more damage, invincibility, etc.)
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+-Implement a background music track produced by my tremendously talented roommate, Cobi
+-Player character and enemies will have cool sprites 
+-Player character can run, jump, and shoot 
+-At least 3-5 different enemies (Possibly including a stronger "boss" enemy)
+-procedural generation will 
+-Scaling difficulty 
+-Game will have cooler items and power-ups (ie. making the player projectiles explode, freeze enemies, etc.)
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+I need to download and learn how Lua works, going through the game track will be a great start. I want to research what parts of our ideas are more feasible than others, specifically for 
+items and enemies (what different features they could have). I want to learn how to implement my own designs in for the player models and enemy models and whether I would have to design them
+pixelated or not. I would also want to look into Megaman because it is one of our inspirations but I don't know much about it honestly; one of the few retros I avoided. I will be handling 
+design aspects and the Start and Ending (game over) screens. I want to help some with the sound design as well. Gio Will handle most of the code regarding the gameplay, enemy AI,
+and obstacles, as well as the procedural generation
+
